@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Dephiou
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning HTML, css, javascript, python
+- 💞️ I’m looking to collaborate on cybersecurity and HTML, css, javascript, python
+- 📫 How to reach me : on discord dephiou just like here ^^
+- 😄 Pronouns: Deph
+- ⚡ Fun fact : I'm also trying to get started on twitch but time doesn't allow it : 
