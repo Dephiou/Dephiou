@@ -3,4 +3,3 @@
 - 🌱 I am currently learning HTML, CSS, Javascript, Python
 - 💞️ I am looking to collaborate on cybersecurity and HTML, css, javascript, python
 - 😄 Pronouns: Deph
-- ⚡ Fun fact: I'm also trying to get started on Twitch but it's not easy
